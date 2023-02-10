@@ -1,0 +1,15 @@
+student-por.csv:
+https://www.kaggle.com/datasets/larsen0966/student-performance-data-set
+
+
+student_data.csv:
+https://www.kaggle.com/datasets/devansodariya/student-performance-data
+
+
+
+https://www.kaggle.com/code/ghayurhamza/portuguese-gradeprediction
+
+
+
+Info:
+https://www.kaggle.com/datasets/whenamancodes/student-performance
